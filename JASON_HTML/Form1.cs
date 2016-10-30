@@ -46,6 +46,7 @@ namespace JASON_HTML
                 //    siradakiElementOzellikleri += siradakiAttr.Value + " ";
                 //}
                 //lstUrunler.Items.Add(siradakiElementOzellikleri);
+                //test
 
             }
 
