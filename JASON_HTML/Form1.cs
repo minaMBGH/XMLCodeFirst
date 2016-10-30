@@ -47,6 +47,7 @@ namespace JASON_HTML
                 //}
                 //lstUrunler.Items.Add(siradakiElementOzellikleri);
                 //test
+                //test2
 
             }
 
